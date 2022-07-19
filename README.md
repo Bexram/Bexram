@@ -10,7 +10,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bexram&layout=compact&theme=dark" />
 </details> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bexram&count_private=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bexram)
 
