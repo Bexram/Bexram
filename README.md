@@ -1,6 +1,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=ffffff)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/zloytard)
 
 
