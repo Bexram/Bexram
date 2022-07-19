@@ -12,6 +12,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bexram&count_private=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bexram)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bexram)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bexram)
